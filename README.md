@@ -150,15 +150,7 @@ dotnet run --project .\CSharpAppiumPOM
 
 ---
 
-## 11. 后续扩展建议
 
-- 增加配置文件（如 `appsettings.json`）统一管理时区、重试次数、超时参数；
-- 引入测试框架（`xUnit`/`NUnit`）做可回归测试；
-- 增加截图和失败现场采集；
-- 按业务页面继续拆分 Page 类，保持单一职责。
-
----
-
-## 12. 相关文档
+## 11. 相关文档
 
 - 子项目说明：`CSharpAppiumPOM/README.md`
