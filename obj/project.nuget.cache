@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpXZAm3OgF4=",
+  "success": true,
+  "projectFilePath": "D:\\CURSOR_CODE\\uiautomator_test\\CSharpAppiumPOM\\CSharpAppiumPOM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\27475\\.nuget\\packages\\appium.webdriver\\8.2.0\\appium.webdriver.8.2.0.nupkg.sha512",
+    "C:\\Users\\27475\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\27475\\.nuget\\packages\\selenium.webdriver\\4.36.0\\selenium.webdriver.4.36.0.nupkg.sha512",
+    "C:\\Users\\27475\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
